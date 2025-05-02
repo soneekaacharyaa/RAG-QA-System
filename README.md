@@ -51,6 +51,7 @@ Make sure to set the following environment variables in a `.env` file:
    ```
 
 ## Architecture & Design
+```
 
 User Question
    │
@@ -71,6 +72,7 @@ User Question
    │
    ▼
 Generated Answer
+```
 
 Components
 - Embedding Model: all-MiniLM-L6-v2 from sentence-transformers
@@ -81,7 +83,7 @@ Components
 
 
 ## Project Strcuture
-
+```
 ├── data
 │   └── movie_trivia.json       # JSON file containing movie data
 ├── src
@@ -92,7 +94,7 @@ Components
 ├── requirements.txt            # Python dependencies
 ├── .gitignore                  # Files to ignore in Git
 └── README.md                   # Project documentation
-
+```
 
 ## Evaluation
 
