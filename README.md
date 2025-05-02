@@ -2,7 +2,7 @@
 # Movie Trivia Q&A System
 
 ## Description
-The **Movie Trivia Q&A System** is a RAG (Retrieval-Augmented Generation) question-answering platform designed to answer movie-related queries. It combines **semantic search** using **Sentence Transformers**, **fast vector retrieval** with **FAISS**, and **GPT-4o** from OpenAI for generating contextually relevant answers.
+The **Movie Trivia Q&A System** is a RAG (Retrieval-Augmented Generation) question-answering platform designed to answer movie-related queries. It combines **semantic search** using **Sentence Transformers**, **fast vector retrieval** with **FAISS**, and **gpt-4o** from OpenAI for generating contextually relevant answers.
 
 The system uses a pre-loaded movie trivia database to answer questions about movies, including details like actors, directors, release years, and plot summaries. If the database doesn't have an answer, it can fetch additional information via web search using **SerpAPI**.
 
@@ -12,7 +12,7 @@ Built with **Streamlit**, the application provides a user-friendly interface for
 
 ### Required Environment Variables:
 Make sure to set the following environment variables in a `.env` file:
-- `OPENAI_API_KEY`: Your OpenAI API key for GPT-4.
+- `OPENAI_API_KEY`: Your OpenAI API key for gpt-4o.
 - `SERPAPI_KEY`: Your API key for SerpAPI to perform web searches.
 
 ## Installation and Setup
@@ -77,7 +77,7 @@ Generated Answer
 Components
 - Embedding Model: all-MiniLM-L6-v2 from sentence-transformers
 - Vector Store: FAISS index built from movie plots, actors, directors, etc.
-- LLM: OpenAI GPT-4o for generating answers using retrieved context
+- LLM: OpenAI gpt-4o for generating answers using retrieved context
 - Fallback: If local data fails, falls back to SerpAPI web search
 - UI: Built with Streamlit for interactive QA
 
