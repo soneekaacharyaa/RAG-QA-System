@@ -1,0 +1,6 @@
+faiss_cpu==1.11.0
+google_search_results==2.4.2
+openai==1.76.2
+python-dotenv==1.1.0
+sentence_transformers==4.1.0
+streamlit==1.45.0
