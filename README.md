@@ -68,7 +68,7 @@ User Question
 [Context Construction from Movie Dataset or Web Search]
    │
    ▼
-[OpenAI GPT-4o]
+[OpenAI gpt-4o]
    │
    ▼
 Generated Answer
