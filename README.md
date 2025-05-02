@@ -110,6 +110,6 @@ python evaluate.py
 
 ## To-Do
 - Improve fallback to summarize or refine web results
-- Add caching to reduce repeated OpenAI calls
+- Caching repeated queries
 - Add interface to view source chunk(s) behind each answer
 - Filter non-movie-based queries
