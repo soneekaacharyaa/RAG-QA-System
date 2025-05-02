@@ -1,0 +1,345 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "plot": "Two imprisoned men bond over years, finding redemption through acts of decency.",
+    "actors": "Tim Robbins, Morgan Freeman",
+    "director": "Frank Darabont"
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "plot": "The patriarch of a crime dynasty transfers control of his empire to his reluctant son.",
+    "actors": "Marlon Brando, Al Pacino",
+    "director": "Francis Ford Coppola"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "plot": "Batman faces the Joker, a criminal mastermind who plunges Gotham into chaos.",
+    "actors": "Christian Bale, Heath Ledger",
+    "director": "Christopher Nolan"
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "plot": "The lives of two mob hitmen, a boxer, and a gangster's wife intertwine.",
+    "actors": "John Travolta, Uma Thurman",
+    "director": "Quentin Tarantino"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "plot": "The story of a slow-witted man witnessing and influencing historical events.",
+    "actors": "Tom Hanks, Robin Wright",
+    "director": "Robert Zemeckis"
+  },
+  {
+    "title": "Inception",
+    "year": 2010,
+    "plot": "A thief steals corporate secrets through dream-sharing technology.",
+    "actors": "Leonardo DiCaprio, Joseph Gordon-Levitt",
+    "director": "Christopher Nolan"
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "plot": "An insomniac office worker and a soap maker form an underground fight club.",
+    "actors": "Brad Pitt, Edward Norton",
+    "director": "David Fincher"
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "plot": "A computer hacker learns the true nature of his reality and his role in the war.",
+    "actors": "Keanu Reeves, Laurence Fishburne",
+    "director": "The Wachowskis"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "plot": "A hobbit and companions set out to destroy a powerful ring.",
+    "actors": "Elijah Wood, Ian McKellen",
+    "director": "Peter Jackson"
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "plot": "A team travels through a wormhole to ensure humanity's survival.",
+    "actors": "Matthew McConaughey, Anne Hathaway",
+    "director": "Christopher Nolan"
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "plot": "A former Roman general seeks revenge against the corrupt emperor.",
+    "actors": "Russell Crowe, Joaquin Phoenix",
+    "director": "Ridley Scott"
+  },
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "plot": "A romance blossoms aboard the ill-fated RMS Titanic.",
+    "actors": "Leonardo DiCaprio, Kate Winslet",
+    "director": "James Cameron"
+  },
+  {
+    "title": "The Lion King",
+    "year": 1994,
+    "plot": "A lion cub prince flees his kingdom after the death of his father.",
+    "actors": "Matthew Broderick, Jeremy Irons",
+    "director": "Roger Allers, Rob Minkoff"
+  },
+  {
+    "title": "Avatar",
+    "year": 2009,
+    "plot": "A paraplegic Marine dispatched to Pandora becomes torn between orders and protecting his new home.",
+    "actors": "Sam Worthington, Zoe Saldana",
+    "director": "James Cameron"
+  },
+  {
+    "title": "The Avengers",
+    "year": 2012,
+    "plot": "Earth's mightiest heroes must come together to stop Loki.",
+    "actors": "Robert Downey Jr., Chris Evans",
+    "director": "Joss Whedon"
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "plot": "Luke Skywalker joins forces to save the galaxy from the Empire.",
+    "actors": "Mark Hamill, Harrison Ford",
+    "director": "George Lucas"
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "plot": "Dinosaurs are brought back to life and wreak havoc.",
+    "actors": "Sam Neill, Laura Dern",
+    "director": "Steven Spielberg"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "plot": "A young FBI cadet seeks the help of a manipulative cannibal killer.",
+    "actors": "Jodie Foster, Anthony Hopkins",
+    "director": "Jonathan Demme"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "plot": "A group of U.S. soldiers go behind enemy lines to retrieve a paratrooper.",
+    "actors": "Tom Hanks, Matt Damon",
+    "director": "Steven Spielberg"
+  },
+  {
+    "title": "Schindler's List",
+    "year": 1993,
+    "plot": "A businessman saves the lives of more than a thousand Polish Jews.",
+    "actors": "Liam Neeson, Ralph Fiennes",
+    "director": "Steven Spielberg"
+  },
+  {
+    "title": "Braveheart",
+    "year": 1995,
+    "plot": "Scottish warrior William Wallace leads his countrymen in rebellion.",
+    "actors": "Mel Gibson, Sophie Marceau",
+    "director": "Mel Gibson"
+  },
+  {
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "plot": "A janitor at MIT has a gift for mathematics but needs help to find direction.",
+    "actors": "Matt Damon, Robin Williams",
+    "director": "Gus Van Sant"
+  },
+  {
+    "title": "The Green Mile",
+    "year": 1999,
+    "plot": "The lives of guards on Death Row are affected by one of their charges.",
+    "actors": "Tom Hanks, Michael Clarke Duncan",
+    "director": "Frank Darabont"
+  },
+  {
+    "title": "Whiplash",
+    "year": 2014,
+    "plot": "A promising young drummer enrolls at a cut-throat music conservatory.",
+    "actors": "Miles Teller, J.K. Simmons",
+    "director": "Damien Chazelle"
+  },
+  {
+    "title": "Coco",
+    "year": 2017,
+    "plot": "An aspiring musician enters the Land of the Dead to find his ancestor.",
+    "actors": "Anthony Gonzalez, Gael Garc\u00eda Bernal",
+    "director": "Lee Unkrich, Adrian Molina"
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "plot": "A cowboy doll feels threatened by a new spaceman toy.",
+    "actors": "Tom Hanks, Tim Allen",
+    "director": "John Lasseter"
+  },
+  {
+    "title": "Up",
+    "year": 2009,
+    "plot": "An old man fulfills his dream of adventure by tying thousands of balloons to his house.",
+    "actors": "Edward Asner, Jordan Nagai",
+    "director": "Pete Docter"
+  },
+  {
+    "title": "Inside Out",
+    "year": 2015,
+    "plot": "Inside the mind of a young girl, five emotions guide her through life.",
+    "actors": "Amy Poehler, Bill Hader",
+    "director": "Pete Docter, Ronnie del Carmen"
+  },
+  {
+    "title": "WALL-E",
+    "year": 2008,
+    "plot": "A small waste-collecting robot embarks on a space journey.",
+    "actors": "Ben Burtt, Elissa Knight",
+    "director": "Andrew Stanton"
+  },
+  {
+    "title": "The Incredibles",
+    "year": 2004,
+    "plot": "A family of undercover superheroes are forced into action.",
+    "actors": "Craig T. Nelson, Holly Hunter",
+    "director": "Brad Bird"
+  },
+  {
+    "title": "Finding Nemo",
+    "year": 2003,
+    "plot": "After his son is captured, a timid clownfish sets out on a journey to bring him home.",
+    "actors": "Albert Brooks, Ellen DeGeneres",
+    "director": "Andrew Stanton"
+  },
+  {
+    "title": "Ratatouille",
+    "year": 2007,
+    "plot": "A rat who dreams of becoming a chef teams up with a young kitchen worker.",
+    "actors": "Patton Oswalt, Ian Holm",
+    "director": "Brad Bird"
+  },
+  {
+    "title": "Frozen",
+    "year": 2013,
+    "plot": "When a queen's powers trap her kingdom in eternal winter, her sister sets out to save it.",
+    "actors": "Kristen Bell, Idina Menzel",
+    "director": "Chris Buck, Jennifer Lee"
+  },
+  {
+    "title": "Moana",
+    "year": 2016,
+    "plot": "An adventurous teenager sails out on a daring mission to save her people.",
+    "actors": "Auli'i Cravalho, Dwayne Johnson",
+    "director": "Ron Clements, John Musker"
+  },
+  {
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "plot": "Two monsters must return a little girl to her home after she enters their world.",
+    "actors": "Billy Crystal, John Goodman",
+    "director": "Pete Docter"
+  },
+  {
+    "title": "Zootopia",
+    "year": 2016,
+    "plot": "A rookie bunny cop and a cynical con artist fox must work together.",
+    "actors": "Ginnifer Goodwin, Jason Bateman",
+    "director": "Byron Howard, Rich Moore"
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "plot": "Based on the true story of Jordan Belfort's rise and fall.",
+    "actors": "Leonardo DiCaprio, Jonah Hill",
+    "director": "Martin Scorsese"
+  },
+  {
+    "title": "The Social Network",
+    "year": 2010,
+    "plot": "The story of Facebook's founding and the lawsuits that followed.",
+    "actors": "Jesse Eisenberg, Andrew Garfield",
+    "director": "David Fincher"
+  },
+  {
+    "title": "Parasite",
+    "year": 2019,
+    "plot": "Greed and class discrimination threaten the newly formed symbiotic relationship.",
+    "actors": "Kang-ho Song, Sun-kyun Lee",
+    "director": "Bong Joon Ho"
+  },
+  {
+    "title": "La La Land",
+    "year": 2016,
+    "plot": "A jazz musician and an aspiring actress fall in love.",
+    "actors": "Ryan Gosling, Emma Stone",
+    "director": "Damien Chazelle"
+  },
+  {
+    "title": "Joker",
+    "year": 2019,
+    "plot": "A failed comedian descends into madness and chaos in Gotham City.",
+    "actors": "Joaquin Phoenix, Robert De Niro",
+    "director": "Todd Phillips"
+  },
+  {
+    "title": "Django Unchained",
+    "year": 2012,
+    "plot": "With the help of a bounty-hunter, a freed slave sets out to rescue his wife.",
+    "actors": "Jamie Foxx, Christoph Waltz",
+    "director": "Quentin Tarantino"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "plot": "A concierge teams up with a lobby boy to prove his innocence.",
+    "actors": "Ralph Fiennes, Tony Revolori",
+    "director": "Wes Anderson"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler.",
+    "actors": "Tom Hardy, Charlize Theron",
+    "director": "George Miller"
+  },
+  {
+    "title": "Black Panther",
+    "year": 2018,
+    "plot": "T'Challa must save his kingdom from enemies from within and outside.",
+    "actors": "Chadwick Boseman, Michael B. Jordan",
+    "director": "Ryan Coogler"
+  },
+  {
+    "title": "Doctor Strange",
+    "year": 2016,
+    "plot": "A surgeon becomes the Sorcerer Supreme to defend the world.",
+    "actors": "Benedict Cumberbatch, Chiwetel Ejiofor",
+    "director": "Scott Derrickson"
+  },
+  {
+    "title": "Deadpool",
+    "year": 2016,
+    "plot": "A former special forces operative becomes the anti-hero Deadpool.",
+    "actors": "Ryan Reynolds, Morena Baccarin",
+    "director": "Tim Miller"
+  },
+  {
+    "title": "Logan",
+    "year": 2017,
+    "plot": "In a dystopian future, Logan must protect a young mutant.",
+    "actors": "Hugh Jackman, Patrick Stewart",
+    "director": "James Mangold"
+  },
+  {
+    "title": "Shutter Island",
+    "year": 2010,
+    "plot": "A U.S. Marshal investigates a psychiatric facility and unravels secrets.",
+    "actors": "Leonardo DiCaprio, Mark Ruffalo",
+    "director": "Martin Scorsese"
+  }
+]
