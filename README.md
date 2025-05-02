@@ -2,7 +2,7 @@
 # Movie Trivia Q&A System
 
 ## Description
-The **Movie Trivia Q&A System** is an intelligent question-answering platform designed to answer movie-related queries. It combines **semantic search** using **Sentence Transformers**, **fast vector retrieval** with **FAISS**, and **GPT-4o** from OpenAI for generating contextually relevant answers.
+The **Movie Trivia Q&A System** is a RAG (Retrieval-Augmented Generation) question-answering platform designed to answer movie-related queries. It combines **semantic search** using **Sentence Transformers**, **fast vector retrieval** with **FAISS**, and **GPT-4o** from OpenAI for generating contextually relevant answers.
 
 The system uses a pre-loaded movie trivia database to answer questions about movies, including details like actors, directors, release years, and plot summaries. If the database doesn't have an answer, it can fetch additional information via web search using **SerpAPI**.
 
@@ -67,7 +67,7 @@ User Question
 [Context Construction from Movie Dataset or Web Search]
    │
    ▼
-[OpenAI gpt-4o]
+[OpenAI GPT-4o]
    │
    ▼
 Generated Answer
@@ -88,7 +88,7 @@ Components
 │   ├── generate_answers.py     # Core logic: loading, retrieval, and QA generation
 │   ├── app.py                  # Streamlit frontend
 │   └── evaluate.py             # Evaluation script for test queries
-│── .env example                # Contains example to setup .env file 
+├── .env example                # Contains example to setup .env file 
 ├── requirements.txt            # Python dependencies
 ├── .gitignore                  # Files to ignore in Git
 └── README.md                   # Project documentation
